@@ -1,4 +1,4 @@
-Room is an Android persistence library that is part of Google’s Android Jetpack project. According to the documentation, Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.
+Room is an Android persistence library that is part of Google’s Android Jetpack project. Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.
 
 There are 3 major components in Room:
 
